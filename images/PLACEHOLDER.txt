@@ -1,0 +1,5 @@
+This folder should contain your profile image named `profile.jpg`.
+
+Add a real image file (JPEG or PNG) with this exact filename so the site shows your photo.
+
+Example: images/profile.jpg
